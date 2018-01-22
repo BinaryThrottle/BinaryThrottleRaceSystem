@@ -13,7 +13,8 @@ They bring a level of fun & excitement that is way beyond a typical drive/fly ro
 I've wanted to do this for a couple of years now but had never learnt to code, thing is I work in IT and that's kind of important. 
 Therefore I decided to kill two birds with one stone and go for it over the winter. 
 
-The System is designed to be ultra cheap to make, and uses common components, it comprises of
+The System is designed to be ultra cheap to make, and uses common components, it comprises of...
+
 A main controller to run your racing world, buttons for inputs and a serial interface for I/O to/from your PC or android.
 Numerous receiver units, 1 for each gate, weapon or background lights
 Gates, fitted with led strip.
