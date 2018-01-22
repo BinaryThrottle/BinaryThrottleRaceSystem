@@ -15,7 +15,7 @@ Therefore I decided to kill two birds with one stone and go for it over the wint
 
 The System is designed to be ultra cheap to make, and uses common components, it comprises of...
 
-A main controller to run your racing world, buttons for inputs and a serial interface for I/O to/from your PC or android.
+a main controller to run your racing world, buttons for inputs and a serial interface for I/O to/from your PC or android.
 Numerous receiver units, 1 for each gate, weapon or background lights.
 Gates, fitted with led strip.
 Laser gates, gates with lasers... what else?
