@@ -9,7 +9,8 @@ So I love racing drones... the flying, the building, the meets with so many like
 The thing is, I've always felt like something is missing... 
 We grew up on things like Mario Kart, Top Gun & Wipeout... Big Bright Lights, Explosions, Speed Boosts... Weapons!!!
 They bring a level of fun & excitement way beyond a typical drive/fly round a track.
-I've wanted to do this for a couple of years now but had never learnt to code, thing is I work in IT and that's kind of important. So I decided to kill two birds with one stone and go for it over the winter.
+I've wanted to do this for a couple of years now but had never learnt to code, thing is I work in IT and that's kind of important. 
+So I decided to kill two birds with one stone and go for it over the winter.
 
 The System is designed to be ultra cheap to make, and uses common components, it comprises of
 A main controller to run your racing world, buttons for inputs and a serial interface for I/O to/from your PC or android.
@@ -30,9 +31,10 @@ Coders, builders...There Is still lots that could be done with the system, winte
 please help out where you can
 5.8 tracking is top of the list, enabling race timing, and games like capture the flag, capture the course, or giving an alternate means to collect weapons.
 
-It also needs more games. It's been setup that coding the controller to act as score unit would be simple, scores can be read out, interfaces for digital media could be setup...
+It also needs more games. It's been setup that coding the controller to act as score unit would be pretty simple, scores can be read out, interfaces for digital media could be setup...
 
-The possibilities really are endless, build it, mod it, film it and let me know how it goes with a sick youtube vid.
+The possibilities really are endless, 
+build it, mod it, film it and maybe send me a link so i can see what you've managed to do with it.
 
 Binary Throttle, Jan 2018
 Check out Binary Throttle on Youtube for demos, build vids and other dumb projects
