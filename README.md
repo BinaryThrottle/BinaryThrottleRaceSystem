@@ -43,4 +43,4 @@ Binary Throttle, Jan 2018
 
 Check out Binary Throttle on Youtube for demos, build vids, flight vids and maybe some other dumb projects.
 
-ps Shout out to... Drone London (Instagram), Carlito (YT- SeekND FPV) and Tristan()
+ps Shout out to... Drone London (Instagram), Carlito (YT- SeekND FPV) Tristan() and the boys at LetsDroneOut (YT)
