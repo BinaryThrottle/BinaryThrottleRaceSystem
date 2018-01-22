@@ -32,13 +32,15 @@ Coders, builders...There Is still lots that could be done with the system, winte
 
 Please help out where you can.
 
-5.8 tracking is top of the list, enabling race timing, and games like capture the flag, capture the course, or giving an alternate means to collect weapons.
+5.8 tracking is top of the list, this would enable things like race timing, and games like capture the flag, capture the course, or even just giving an alternate means to collect weapons. Carlito has been working real hard over the last weekend to develop a 5.8ghz CTF receiver has offered to help try and incorporate it, however we could always use assistance in getting things like the scanning and switching times down, and managing the data coming back... which could also be used to do some really cool things.
 
-It also needs more games. It's been setup that coding the controller to act as a score unit would be pretty simple, scores can be read out, interfaces for digital media could be setup...
+It also needs more games. It's been setup that coding the controller to act as a score unit would be pretty simple, scores can be read out, sounds play, interfaces for digital media could be setup...
 
 The possibilities really are endless, 
 build it, mod it, film it and maybe send me a link so i can see what you've managed to do with it.
 
 Binary Throttle, Jan 2018
 
-Check out Binary Throttle on Youtube for demos, build vids and other dumb projects
+Check out Binary Throttle on Youtube for demos, build vids, flight vids and maybe some other dumb projects.
+
+ps Shout out to... Drone London (Instagram), Carlito (YT- SeekND FPV) and Tristan()
