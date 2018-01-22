@@ -1,5 +1,5 @@
 # BinaryThrottleRaceSystem
-    By Binary Throttle, Jan 2018
+    By Binary Throttle, Jan 2018 - Subscribe to Binary Throttle on Youtube - We'll be releasing videos soon
     
 In late stage testing... code, plans and demo vids will be released soon
 
