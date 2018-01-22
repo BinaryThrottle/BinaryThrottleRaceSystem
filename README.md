@@ -34,7 +34,7 @@ Please help out where you can.
 
 5.8 tracking is top of the list, enabling race timing, and games like capture the flag, capture the course, or giving an alternate means to collect weapons.
 
-It also needs more games. It's been setup that coding the controller to act as score unit would be pretty simple, scores can be read out, interfaces for digital media could be setup...
+It also needs more games. It's been setup that coding the controller to act as a score unit would be pretty simple, scores can be read out, interfaces for digital media could be setup...
 
 The possibilities really are endless, 
 build it, mod it, film it and maybe send me a link so i can see what you've managed to do with it.
