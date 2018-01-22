@@ -8,9 +8,10 @@ BTRS- Introducing the first ...Wireless, Individually Addressable, Portable, Rea
 So I love racing drones... the flying, the building, the meets with so many like minded people. 
 The thing is, I've always felt like something is missing... 
 We grew up on things like Mario Kart, Top Gun & Wipeout... Big Bright Lights, Explosions, Speed Boosts... Weapons!!!
-They bring a level of fun & excitement way beyond a typical drive/fly round a track.
+They bring a level of fun & excitement that is way beyond a typical drive/fly round a track.
+
 I've wanted to do this for a couple of years now but had never learnt to code, thing is I work in IT and that's kind of important. 
-So I decided to kill two birds with one stone and go for it over the winter.
+Therefore I decided to kill two birds with one stone and go for it over the winter. 
 
 The System is designed to be ultra cheap to make, and uses common components, it comprises of
 A main controller to run your racing world, buttons for inputs and a serial interface for I/O to/from your PC or android.
